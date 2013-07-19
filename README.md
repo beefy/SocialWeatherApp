@@ -1,0 +1,4 @@
+SocialWeatherApp
+================
+
+for the hackathon
